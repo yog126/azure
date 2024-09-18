@@ -1,0 +1,136 @@
+Q Tell me about yourself
+This is Yogita here. I am having 4+ years of experience in the industry. Currently I am working with the Ready Education as Quality Engineer/QA test analyst.
+Earlier I used to work in Vaultex.
+My major responsibility is into all testing activities. I majorly involved in all test execution, writing test cases over there and then executing at the time of sprint feature, at time of feature testing and at a time of regression testing.
+I do automation also my job is to convert those manual testcases into automation whenever its ready.
+I have experience in selenium WebDriver using page object model, as well as in playwright for UI automation and for API automation I have used Restsharp with CSharp.
+I also involve sometimes in executing and publishing reports for test execution.
+I am regularly part of sprint feature testing. My daily job routines are ‘uno’ attending sprint calls, daily standup call, sprint meetings, and part of sprint planning and everything all the what are different type of sprint activities are going on measuredly I am involved into those activities.
+I am having pretty much knowledge on how to write test cases and JIRA, Bugzilla, mantis etc.
+In terms of UI automation I am having exposure on selenium WebDriver with java, BDD framework, cucumber, gherkin, TestNG, JUnit and playwright and CI tools such as AzureADFactory etc.
+I am also having good knowledge of manual API testing using postman and for automation having experience with Restsharp, SpecFlow.
+Currently in our company we are using playwright for UI automation and for manual mobile testing we are using Browserstack. I also have experience in manual mobile testing with browserstack and accessibility testing.
+Best thing I like about my profile is as when you work as QA you get to know about overall product and it not just one feature you are working on like developer do. That is first thing interested me toward testing.
+
+How do you start your day?
+My day start with daily standup meeting where we team discuss what we did yesterday, what we going to do today and if there is any blocker.
+Everyday starts with daily standup where we literally like prepare checklist that what we did yesterday and what we are going to do today and if any issue is there we discuss that and that’s how my day start.
+
+
+
+What process your organization follow?
+Respect to software development then it is agile scrum and CI/CD follow.
+And if it is with respect to testing partial manual and partial automation is followed.
+In our project for sprint we only do testing by manually and for regression in upcoming sprint if we implemented any changes we have to do regression testing and for that we write automation test script and use it for regression. As tester when as feature assign to me I will be writing manual testcases as well as automation testcase, manual testcase uses for that particular sprint and automation testcases use for regression testing.
+
+Explain API testing project
+API is also part of stories and acceptance criteria. API is functional module or component.
+e.g. Search we provide keyword in search and what actually you bring in result is relevant API. And when we testing search feature we will be testing UI and API both
+In myday we have content management section in that we upload file through API postman and then In UI testing validate the file uploaded
+
+Can it possible design testcases without POM model and how?
+It is not essential to use POM model but it reduce code duplication and maintain similar structure in organization. Also with page object model create object repository for storing all web element so it reduce code duplication and improve testcases maintenance.
+Page object model is basically a design pattern, under this model for each web page in application there should be corresponding page class.
+Page class is use to identify web element of that page and also contain page method which perform operation on those web element.
+Without page object model just you can find element and perform operation on it.
+
+Who does sprint planning? What involve in it
+Scrum master facilitate sprint planning and developer, tester is part of it and they decide what you going to test and deliver out of sprint.
+Like developer, QA, BA every one is there and according to our capacity we input scrum master and then we decide what stories we will picking out of that sprint planning and going to deliver at end of sprint.
+We define scope of sprint, set goal of spring and addresses concern, plan out sprint.
+
+
+
+How you delt with 3rd party client?
+Stakeholder is part of our daily standup and sprint demo and reviews. In daily standup they gather the input to understand project flow and project progress how it is happening and sprint review how feature came up and they will part of review and they also part of UAT and so  I will engage with them during daily standup , sprint reviews and UAT session.
+
+Tell me about your previous technical experience/tool/framework
+Coding experience with automating testcase with playwright. I can do automation end to end and tool stack is playwright, gherkin language and for API testing used Restsharp, postman
+Worked on functional API/web testing (Requirements testing, new feature testing, ad-hoc/exploratory testing, regression testing), non-functional testing. Perform Accessibility testing following WCAG 2.0 Level A standards
+WCAG- Principle 
+1: Perceivable - Information and user interface components must be presentable to users in ways they can perceive.
+2: Operable - User interface components and navigation must be operable.
+3: Understandable - Information and the operation of user interface must be understandable.
+4: Robust - Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.
+
+Can we change sprint duration in middle of project?
+As QA I am not authorise to change sprint duration but scrum master can. In my company Its happen in last December. Generally our sprint starts on Monday and ends on Friday but because of 1 week holiday sprint duration was 3 week at that time.
+
+How you design test plan?
+I have not design any test plan but I given input while designing test plan like what type of testing we use, entry, exit criteria.
+
+Maximum sprint?
+Depend on size and complexity of project. Last project had 24 sprint in year. 2 week sprint
+
+How you applied OOPS concept to your project while designing testcases in automation
+Inheritance, interference, login with overloading
+
+What is your greatest strength
+Problem solving, Focus
+
+What is greatest weakness
+Not talkative I am working on that. I don’t talk anything without context
+
+Why should we hire you?
+I am from core computer background. I have done diploma and ISTQB in testing my problem solving is good and I make sure given task is completed which will beneficial for the organisation and I am quick learner and always egar to learm a new thing and accept challenges with this. I make sure I am align to organisational goal.
+
+
+Tell me a time you showed leadership 
+There are couple of instances but one of them i could remember is in Servient my team lead had to go on leave on emergency basis & there was one schedule call about new  about new production & testing progress & The situation was bit chaos so I took a lead & created one short presentation with latest update, I directly dealt with client they were happy with presentation & progress deadline.
+What would your co-worker say of about you
+I don't know ; they only i guess Can answer this
+
+Why do you want to leave your current role?
+I want to learn more and I believe I've progressed as far as I can in my current role and I need a change of environment to motivate me So This position is a closer match to the type of work I'm passionate about and want to dedicate my career to
+
+
+Challenging project?
+In servient Inc. there were project were Chinese character missing while producing document that time it is challenging and for that we use Unicode technique.
+In Vaultex, which cash management company, in which we need to test electronics voucher so it is basically a image which is challenging and for that we used visual testing applitools for testing
+
+Accomplishment
+Azure course and comeback in my carrier. When I joined ready education I was not aware of the playwright and mobile testing, accessibility testing so I learned playwright and got the good knowledge and hands on experience on it.
+
+What do you like to do outside of work.
+Family time. I am foodie as well, we keep finding new restaurants.
+
+Where do you see yourself in 5 years.
+Of course I will see me working as test lead or something but more importantly I fill job satisfaction is important along with how you align with your company goal.
+As you know technology is changing everyday so I see myself adapting to new process, technology and giving my 100% in organization.
+
+Tell Me About A Time You Worked With A Difficult Person
+SITUATION: When I started work in my previous job, a member of the team made it difficult for me. He was dismissive of my ideas during team meetings, and when I asked for his advice and assistance, he kept saying he was too busy to help.
+TASK: I had two options. I could either ignore him, or I could work hard to build a better relationship with him for the sake of the team. I chose the latter option.
+ACTION: During a break at work, I spoke to him about what he was interested in outside of work. As it transpired, we both supported the same sports team. This was my opportunity to talk to him about something we were both very passionate about and this had a significant impact on our working relationship.
+RESULT: From that moment on, things improved greatly and when I next asked him for help, he did all he could to assist me.
+
+Tell me about time made mistake in organization
+I do respect organization policy, rule and regulations but I never done sort of mistake.
+If you are talking about work related then yes everyday we learn something new. One of the example is In our company having myday product that run on mobile app on different devices android, iOS there was one ticket to test outlook functionality got assign to me. I have tested it on browserstack, web and different browser it was working fine but actually in the production environment on one of the iOS device (iphone 13) it was not working so the mistake is I should have tested it on actual device but company did not provide me actual device 
+So the learning for me is we should test it on actual device.
+
+2. I feel I quit my job for my son which is fine but  the duration was much more longer than expected which I feel mistake which I made. I should have join my work earlier.
+
+Tell me about the time you disagreed with someone
+Off course there are many cases but all these are kind of in meeting room on brainstorming sessions where everybody has own opinion but I think this is part of job.
+
+Tell me about time you create goal and achieved it
+In pandemic I has goal to learn azure and I achieved it. Also in ready education we have goal that we have to complete within certain time frame.
+
+Tell me about time you surpassed people expectation
+In current company I came across one situation no one could identified everybody think its complex so technically sometime you have to go back and think like layman and same I did it works(aphostrophy in xpath)
+Chropath suggestion
+
+Tell me about time you had to handle pressure
+Situation:In covid pandemic my colleague is got covid positive and we were working on project and deadline was approaching so I quickly created plan and broke down the work into smaller and more manageable task and prioritize area and 
+
+Good answer: I remember a time when I was working on a project for a client and the deadline was approaching quickly. The scope of the project was larger than we originally anticipated, and we were short-staffed. I quickly created a project plan that broke down the work into smaller, more manageable tasks. I also reached out to my team members and delegated tasks accordingly. Through careful planning and delegation, we were able to deliver the project on time and to the satisfaction of the client.
+
+
+Myday is product which any institute or university can use it as their internal web application.
+It provides full customization and security. Everyday day to day need of student and teacher is considered in app. For eg attendance, library book take in take out, internal communication such as email, notification, alerts its happen in university
+
+
+
+
+
